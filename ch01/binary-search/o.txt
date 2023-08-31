@@ -1,0 +1,4 @@
+hi 4, lo 0, mi 2, ge 5
+hi 1, lo 0, mi 0, ge 1
+hi 0, lo 0, mi 0, ge 1
+helloooo
